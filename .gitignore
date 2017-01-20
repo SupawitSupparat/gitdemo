@@ -1,6 +1,7 @@
-#Files to ignore
+# Files to ignore
 bin/
 build/
 *.class
 .tmp/
 .swp/
+
